@@ -237,3 +237,14 @@ Climate_Change_Geospatial_Analysis/
 ├── global_temperature_2000_2050.gif
 ├── Climate_Change_Impact_Geospatial_Analysis.pptx
 └── README.md
+---
+---
+
+## Recommendations
+
+- Prioritize monitoring of geographic entities showing simultaneously elevated modeled climate pressures across multiple indicators.
+- Use multiple climate indicators rather than relying on a single metric when evaluating potential climate vulnerability.
+- Combine climate indicators with socioeconomic exposure, population, infrastructure, and adaptive capacity for more comprehensive assessments.
+- Replace synthetic observations with authoritative climate datasets before applying the framework to real-world decision-making.
+- Extend the predictive framework with nonlinear and scenario-based climate models to better represent complex climate dynamics.
+---
