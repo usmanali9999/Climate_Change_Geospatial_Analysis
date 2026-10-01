@@ -237,8 +237,7 @@ Climate_Change_Geospatial_Analysis/
 ├── global_temperature_2000_2050.gif
 ├── Climate_Change_Impact_Geospatial_Analysis.pptx
 └── README.md
----
----
+```
 
 ## Recommendations
 
